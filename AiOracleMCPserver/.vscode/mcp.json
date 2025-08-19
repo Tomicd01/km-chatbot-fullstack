@@ -1,0 +1,14 @@
+{
+    "inputs": [],
+    "servers": {
+        "ai-oracle-mcpserver": {
+            "type": "stdio",
+            "command": "dotnet",
+            "args": [
+                "run",
+                "--project",
+                "C:\\Users\\Nignite\\source\\repos\\AiOracleMCPserver"
+            ]           
+      }
+    }
+}

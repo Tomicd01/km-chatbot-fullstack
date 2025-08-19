@@ -1,0 +1,6 @@
+@KMchatbot_HostAddress = http://localhost:5062
+
+GET {{KMchatbot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
